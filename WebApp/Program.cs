@@ -6,7 +6,7 @@ using System.Text;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace StatusOk
+namespace WebApp
 {
     public class Program
     {
